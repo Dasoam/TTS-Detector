@@ -1,0 +1,9 @@
+pandas
+os
+librosa
+matplotlib
+tqdm
+scikit-learn
+torch
+torchvision
+Pillow
